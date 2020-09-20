@@ -6318,46 +6318,46 @@ button.close {
   .col-lg-6:nth-child(2n+1) {
     clear: left; } }
 .e-gradient, .blog-post-social a:hover, .blog-comment-item .cmt-content .btn-author:hover, .social a:hover {
-  background: #54f0ff;
-  background-image: linear-gradient(122deg, #c26af5, #54f0ff); }
+  background: #2BBF8F;
+  background-image: linear-gradient(122deg, #42DF90, #149E8E); }
 
 .e-pink-gradient {
-  background: #ec1dff;
-  background-image: linear-gradient(122deg, #ec1dff, #f79bdc); }
+  background: #2BBF8F;
+  background-image: linear-gradient(122deg, #42DF90, #149E8E); }
   .e-pink-gradient:hover {
-    color: #fff;
+    color: #2BBF8F;
     -webkit-box-shadow: 0px 2px 20px 2px rgba(236, 29, 255, 0.68);
             box-shadow: 0px 2px 20px 2px rgba(236, 29, 255, 0.68); }
 
 .e-yl-gradient {
-  background: #ca9171;
-  background-image: linear-gradient(122deg, #ca9171, #f8ccb3); }
+  background: #2BBF8F;
+  background-image: linear-gradient(122deg, #42DF90, #149E8E); }
   .e-yl-gradient:hover {
-    color: #fff;
+    color: #2BBF8F;
     -webkit-box-shadow: 0px 2px 20px 2px rgba(202, 145, 112, 0.68);
             box-shadow: 0px 2px 20px 2px rgba(202, 145, 112, 0.68); }
 
 .e-red-gradient {
-  background: #ff4065;
-  background-image: linear-gradient(122deg, #ff4065, #ffdce9); }
+  background: #42DF90;
+  background-image: linear-gradient(122deg, #42DF90, #149E8E); }
   .e-red-gradient:hover {
-    color: #fff;
-    -webkit-box-shadow: 0px 2px 20px 2px rgba(255, 64, 100, 0.68);
-            box-shadow: 0px 2px 20px 2px rgba(255, 64, 100, 0.68); }
+    color: #2BBF8F;
+    -webkit-box-shadow: 0px 2px 20px 2px #149E8E;
+            box-shadow: 0px 2px 20px 2px #149E8E; }
 
 .e-orange-gradient {
-  background: #fa4168;
-  background-image: linear-gradient(122deg, #fa4168, #f7cfba); }
+  background: #42DF90;
+  background-image: linear-gradient(122deg, #42DF90, #149E8E); }
   .e-orange-gradient:hover {
-    color: #fff;
-    -webkit-box-shadow: 0px 2px 20px 2px rgba(255, 64, 100, 0.68);
-            box-shadow: 0px 2px 20px 2px rgba(255, 64, 100, 0.68); }
+    color: #2BBF8F;
+    -webkit-box-shadow: 0px 2px 20px 2px #149E8E;
+            box-shadow: 0px 2px 20px 2px #149E8E; }
 
 .btn-gradient, .product-tab-sw li a:hover, .product-tab-sw li.active a, .product-tab-sw2 li a:hover, .product-tab-sw2 li.active a {
-  color: #fff;
+  color: #2BBF8F;
   font-weight: 500;
-  background: #54f0ff;
-  background-image: linear-gradient(122deg, #c26af5, #54f0ff);
+  background: #2BBF8F;
+  background-image: linear-gradient(122deg, #42DF90, #149E8E);
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s; }
@@ -6775,8 +6775,8 @@ body {
     position: absolute;
     width: 68px;
     height: 1px;
-    background: -webkit-gradient(linear, left top, right top, from(#c467f5), to(#53f3ff));
-    background: linear-gradient(90deg, #c467f5, #53f3ff);
+    background: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+    background: linear-gradient(90deg, #42DF90, #149E8E);
     border: 0; }
 
 .blog-post-title {
@@ -6874,8 +6874,8 @@ body {
       position: absolute;
       width: 71px;
       height: 1px;
-      background: -webkit-gradient(linear, left top, right top, from(#c467f5), to(#53f3ff));
-      background: linear-gradient(90deg, #c467f5, #53f3ff);
+      background: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+      background: linear-gradient(90deg, #42DF90, #149E8E);
       border: 0; }
   .blog-post-item.v2 .blog-post-desc p {
     margin-bottom: 28px; }
@@ -6947,8 +6947,8 @@ body {
   width: 439px;
   height: 57px;
   line-height: 57px;
-  background: #54f0ff;
-  background-image: linear-gradient(122deg, #c26af5, #54f0ff);
+  background: #2BBF8F;
+  background-image: linear-gradient(122deg, #42DF90, #149E8E);
   border: 0; }
   @media (max-width: 480px) {
     .cmt-title.v2 .oval-bd {
@@ -6960,8 +6960,8 @@ body {
   width: 199px;
   height: 57px;
   line-height: 57px;
-  background: #54f0ff;
-  background-image: linear-gradient(122deg, #c26af5, #54f0ff);
+  background: #2BBF8F;
+  background-image: linear-gradient(122deg, #42DF90, #149E8E);
   border: 0; }
   @media (max-width: 480px) {
     .cmt-title.v3 .oval-bd {
@@ -7572,7 +7572,7 @@ span.star:before {
         font-size: 14px;
         margin-bottom: 5px; } }
     .h-banner-content .content-price .red {
-      color: #ff5050;
+      color: #2BBF8F;
       font-size: 30px;
       position: relative; }
       .h-banner-content .content-price .red:before {
@@ -8938,8 +8938,8 @@ span.star:before {
     position: absolute;
     width: 68px;
     height: 1px;
-    background: -webkit-gradient(linear, left top, right top, from(#c467f5), to(#53f3ff));
-    background: linear-gradient(90deg, #c467f5, #53f3ff);
+    background: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+    background: linear-gradient(90deg, #42DF90, #149E8E);
     border: 0;
     bottom: 0;
     left: 0; }
@@ -9720,9 +9720,9 @@ span.star:before {
     transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     border: 1px solid transparent;
-    -o-border-image: linear-gradient(to right, #c26af5, #57eeff);
-       border-image: -webkit-gradient(linear, left top, right top, from(#c26af5), to(#57eeff));
-       border-image: linear-gradient(to right, #c26af5, #57eeff);
+    -o-border-image: linear-gradient(to right, #42DF90, #149E8E);
+       border-image: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+       border-image: linear-gradient(to right, #42DF90, #149E8E);
     border-image-slice: 1; }
 
 .desc-list {
@@ -10116,8 +10116,8 @@ span.star:before {
     content: "";
     position: absolute;
     width: 68px;
-    background: -webkit-gradient(linear, left top, right top, from(#c467f5), to(#53f3ff));
-    background: linear-gradient(90deg, #c467f5, #53f3ff);
+    background: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+    background: linear-gradient(90deg, #42DF90, #149E8E);
     height: 1px;
     border: 0; }
 
@@ -12544,8 +12544,8 @@ span.star:before {
     position: absolute;
     width: 85px;
     height: 1px;
-    background: -webkit-gradient(linear, left top, right top, from(#c467f5), to(#53f3ff));
-    background: linear-gradient(90deg, #c467f5, #53f3ff);
+    background: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+    background: linear-gradient(90deg, #42DF90, #149E8E);
     border: 0; }
     @media (min-width: 767px) {
       .entry-info h3:before {
@@ -12562,8 +12562,8 @@ span.star:before {
         position: absolute;
         width: 85px;
         height: 1px;
-        background: -webkit-gradient(linear, left top, right top, from(#c467f5), to(#53f3ff));
-        background: linear-gradient(90deg, #c467f5, #53f3ff);
+        background: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+        background: linear-gradient(90deg, #42DF90, #149E8E);
         border: 0;
         -webkit-transform: none;
                 transform: none; } }
@@ -12594,8 +12594,8 @@ span.star:before {
     width: 85px;
     border: 0;
     height: 1px;
-    background: -webkit-gradient(linear, left top, right top, from(#c467f5), to(#53f3ff));
-    background: linear-gradient(90deg, #c467f5, #53f3ff); }
+    background: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+    background: linear-gradient(90deg, #42DF90, #149E8E); }
   .entry-title.v2:before {
     content: none; }
 
@@ -12628,8 +12628,8 @@ span.star:before {
 
 .hot-line {
   margin-top: 20px;
-  background: -webkit-gradient(linear, left top, right top, from(#c26af5), to(#54f0ff));
-  background: linear-gradient(to right, #c26af5, #54f0ff);
+  background: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+  background: linear-gradient(to right, #42DF90, #149E8E);
   border-radius: 10px;
   padding: 2px; }
   .hot-line > p {
@@ -13285,9 +13285,9 @@ span.star:before {
       position: absolute;
       width: 85px;
       border-bottom: 1px solid transparent;
-      -o-border-image: linear-gradient(to right, #c26af5, #57eeff);
-         border-image: -webkit-gradient(linear, left top, right top, from(#c26af5), to(#57eeff));
-         border-image: linear-gradient(to right, #c26af5, #57eeff);
+      -o-border-image: linear-gradient(to right, #42DF90, #149E8E);
+         border-image: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+         border-image: linear-gradient(to right, #42DF90, #149E8E);
       border-image-slice: 1; }
       @media (min-width: 480px) {
         .entry-content .entry-element h3:before {
@@ -13398,8 +13398,8 @@ span.star:before {
       position: absolute;
       width: 85px;
       height: 1px;
-      background: -webkit-gradient(linear, left top, right top, from(#c467f5), to(#53f3ff));
-      background: linear-gradient(90deg, #c467f5, #53f3ff);
+      background: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+      background: linear-gradient(90deg, #42DF90, #149E8E);
       border: 0; } }
 .entry-element.v2:first-child {
   padding-top: 49px; }
@@ -15983,8 +15983,8 @@ span.star:before {
     position: absolute;
     bottom: 0;
     left: 0;
-    background: -webkit-gradient(linear, left top, right top, from(#c467f5), to(#53f3ff));
-    background: linear-gradient(90deg, #c467f5, #53f3ff);
+    background: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+    background: linear-gradient(90deg, #42DF90, #149E8E);
     height: 1px; }
   @media (max-width: 480px) {
     .menu-level-1 > .level1 > .level2 > a {
@@ -16434,8 +16434,8 @@ span.star:before {
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
-  background: #54f0ff;
-  background-image: linear-gradient(122deg, #c26af5, #54f0ff);
+  background: #149E8E;
+  background-image: linear-gradient(122deg, #42DF90, #149E8E);
   padding-right: 26px;
   text-align: left;
   padding-left: 48px;
@@ -16757,14 +16757,14 @@ span.star:before {
 .box-header-menu {
   padding-right: 30px;
   padding-left: 75px;
-  background: -webkit-gradient(linear, left top, right top, from(#c467f5), to(#53f3ff));
-  background: linear-gradient(90deg, #c467f5, #53f3ff);
+  background: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+  background: linear-gradient(90deg, #42DF90, #149E8E);
   position: relative; }
   @media (min-width: 1681px) {
     .box-header-menu {
       width: 36.7%;
-      background: -webkit-gradient(linear, left top, right top, from(#c467f5), to(#53f3ff));
-      background: linear-gradient(90deg, #c467f5, #53f3ff); } }
+      background: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+      background: linear-gradient(90deg, #42DF90, #149E8E); } }
   .box-header-menu:before {
     content: '';
     border-width: 0 0 63px 75px;
@@ -17451,8 +17451,8 @@ footer .f-top {
           box-shadow: none; }
   .product-item-countd .progress .progress-bar {
     border-radius: 9px;
-    background: #54f0ff;
-    background-image: linear-gradient(122deg, #c26af5, #54f0ff); }
+    background: #149E8E;
+    background-image: linear-gradient(122deg, #42DF90, #149E8E); }
 
 .deal-stock {
   display: -webkit-box;
@@ -18122,8 +18122,8 @@ footer .f-top {
       left: 169px; } }
 
 .sp-item {
-  background: -webkit-gradient(linear, left top, right top, from(#c26af5), to(#54f0ff));
-  background: linear-gradient(to right, #c26af5, #54f0ff);
+  background: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+  background: linear-gradient(to right, #42DF90, #149E8E);
   border-radius: 7px;
   padding: 4px; }
   @media (min-width: 1025px) {
@@ -18289,14 +18289,14 @@ footer .f-top {
       font-size: 16px;
       color: #666666; }
     .tab-link li.active {
-      background: -webkit-gradient(linear, left top, right top, from(#c467f5), to(#53f3ff));
-      background: linear-gradient(90deg, #c467f5, #53f3ff); }
+      background: -webkit-gradient(linear, left top, right top, from(#42DF90), to(#149E8E));
+      background: linear-gradient(90deg, #42DF90, #149E8E); }
       @media (min-width: 767px) {
         .tab-link li.active:before {
           content: '';
           border-width: 7px 8px;
           border-style: solid;
-          border-color: transparent transparent transparent #53f3ff;
+          border-color: transparent transparent transparent #149E8E;
           position: absolute;
           right: -16px;
           top: 50%;

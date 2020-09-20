@@ -279,7 +279,7 @@
             background: #333333;
             @include transition2;
             &:hover{
-                box-shadow: 0px 2px 20px 2px rgba(194, 106, 245, 0.68)
+                box-shadow: 0px 2px 20px 2px #149E8E
             }
         }
     }
@@ -332,12 +332,10 @@
 }
 
 .header-center {
-    padding-top: 15px;
-    padding-bottom: 15px;
     border-bottom: 1px solid #eeeeee;
     @media(min-width: $screen-md) {
-        padding-top:36px;
-        padding-bottom: 30px;
+        padding-top:12px;
+        padding-bottom: 8px;
     }
 }
 
